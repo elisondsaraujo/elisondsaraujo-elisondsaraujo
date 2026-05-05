@@ -56,7 +56,6 @@
 
 **Tech Stack:** Java | Spring Boot | PostgreSQL | JWT | Spring Security
 
-🔗 [Acessar repositório](#) *(em desenvolvimento)*
 
 ---
 
@@ -97,18 +96,16 @@
 
 ---
 
-## 💡 Filosofia
+## 💡 meu perfil profissional
 
 > "A disciplina transforma aprendizado em resultado concreto."
 
-Acredito que **consistência e dedicação** são as chaves para se tornar um excelente desenvolvedor backend. Todos os dias busco melhorar minhas habilidades, estudar arquiteturas escaláveis e contribuir para projetos que façam diferença.
+Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução direta de problemas em software, corrigindo bugs, melhorando código existente e otimizando aplicações para extrair mais desempenho, estabilidade e eficiência. Tenho interesse crescente em segurança e integração contínua (DevSecOps), aplicando na prática conceitos que tornam sistemas mais confiáveis e preparados para ambientes reais. Não me limito a estudar tecnologia: trabalho em cima dela, entendo suas falhas e evoluo sistemas até que funcionem como deveriam. Focado em entregar soluções que funcionam na
+
+prática, e não só no papel.
 
 ---
 
 <div align="center">
-
-### ⭐ Se você achou interessante, deixe uma estrela! 🌟
-
-Vou ficar feliz em conectar e discutir sobre desenvolvimento backend! 
 
 </div>
