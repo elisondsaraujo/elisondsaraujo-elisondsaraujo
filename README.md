@@ -2,7 +2,6 @@
 
 # 👋 Olá, eu sou o **Elison Araújo**
 
-
 ---
 
 ## 🧠 Sobre mim
@@ -56,7 +55,6 @@
 
 **Tech Stack:** Java | Spring Boot | PostgreSQL | JWT | Spring Security
 
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -73,8 +71,8 @@
 
 ## 🎓 Aprendizados & Conquistas
 
-- ✅ uso de IA com **FERRAMENTAS E APLICAÇÕES DA INTELIGÊNCIA ARTIFICIAL** para construção de códigos
-- ✅ construção de **DESENVOLVIMENTO WEB** com HTML, css, JavaScript
+- ✅ Uso de **IA e ferramentas de Inteligência Artificial** para desenvolvimento de código
+- ✅ Construção de **aplicações Web** com HTML, CSS e JavaScript
 - ✅ Fundamentos sólidos em **Java OOP**
 - ✅ Desenvolvimento de **APIs REST** com Spring Boot
 - ✅ Implementação de **autenticação e autorização**
@@ -82,7 +80,16 @@
 - ✅ Versionamento com Git & GitHub
 - ✅ Introdução a **Docker** e containerização
 
-**Em progresso:** Microserviços • Padrões de design • Testes automatizados • CI/CD
+**Em progresso:** Microserviços • Padrões de design • Testes automatizados (JUnit, Mockito) • CI/CD
+
+---
+
+## 🤝 Estou disponível para
+
+- 💬 Discussões sobre arquitetura e boas práticas
+- 🤝 Contribuições em projetos open-source
+- 📚 Compartilhar conhecimento e aprender juntos
+- 💼 Oportunidades de trabalho como desenvolvedor Backend
 
 ---
 
@@ -98,16 +105,12 @@
 
 ---
 
-## 💡 meu perfil profissional
+## 💡 Meu Perfil Profissional
 
 > "A disciplina transforma aprendizado em resultado concreto."
 
-Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução direta de problemas em software, corrigindo bugs, melhorando código existente e otimizando aplicações para extrair mais desempenho, estabilidade e eficiência. Tenho interesse crescente em segurança e integração contínua (DevSecOps), aplicando na prática conceitos que tornam sistemas mais confiáveis e preparados para ambientes reais. Não me limito a estudar tecnologia: trabalho em cima dela, entendo suas falhas e evoluo sistemas até que funcionem como deveriam. Focado em entregar soluções que funcionam na
+Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução de problemas em software, corrigindo bugs, melhorando código existente e otimizando performance. Busco aplicar conhecimento em prática, construindo soluções escaláveis e seguras.
 
-prática, e não só no papel.
+**Próximos passos:** Aprofundar em Microserviços • Implementar CI/CD • Contribuir mais em projetos open-source • Buscar primeira experiência profissional como desenvolvedor Backend.
 
 ---
-
-<div align="center">
-
-</div>
