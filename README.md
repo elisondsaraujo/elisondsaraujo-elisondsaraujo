@@ -73,6 +73,8 @@
 
 ## 🎓 Aprendizados & Conquistas
 
+- ✅ uso de IA com **FERRAMENTAS E APLICAÇÕES DA INTELIGÊNCIA ARTIFICIAL** para construção de códigos
+- ✅ construção de **DESENVOLVIMENTO WEB** com HTML, css, JavaScript
 - ✅ Fundamentos sólidos em **Java OOP**
 - ✅ Desenvolvimento de **APIs REST** com Spring Boot
 - ✅ Implementação de **autenticação e autorização**
