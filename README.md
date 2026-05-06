@@ -1,6 +1,10 @@
-# elisondsaraujo-elisondsaraujo
+<div align="center">
 
 # 👋 Olá, eu sou o **Elison Araújo**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;APIs+REST+%7C+Segurança+%7C+Arquitetura)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -11,6 +15,7 @@
 - 🌱 Aprendizado contínuo em **APIs REST, arquitetura e segurança**
 - 🎯 Objetivo profissional: **Desenvolvedor Backend (Pleno/Sênior)**
 - 🔐 Interesse em **Cibersegurança e sistemas escaláveis**
+- 💡 Experiência com **IA generativa** para desenvolvimento de código
 
 ---
 
@@ -109,8 +114,26 @@
 
 > "A disciplina transforma aprendizado em resultado concreto."
 
-Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução de problemas em software, corrigindo bugs, melhorando código existente e otimizando performance. Busco aplicar conhecimento em prática, construindo soluções escaláveis e seguras.
+Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução de problemas em software, corrigindo bugs, melhorando código existente e otimizando performance.
 
 **Próximos passos:** Aprofundar em Microserviços • Implementar CI/CD • Contribuir mais em projetos open-source • Buscar primeira experiência profissional como desenvolvedor Backend.
 
 ---
+
+<div align="center">
+
+### 📈 Atividade Recente
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elisondsaraujo&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+**Obrigado por visitar! Sinta-se livre para conectar ou contribuir em meus projetos! 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=elisondsaraujo&color=blue)
+
+</div>
