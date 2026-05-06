@@ -5,8 +5,6 @@
 
 # 👋 Olá, eu sou o **Elison Araújo**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;APIs+REST+%7C[...]
-
 </div>
 
 ---
