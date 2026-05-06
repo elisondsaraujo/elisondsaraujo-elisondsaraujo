@@ -1,5 +1,7 @@
 <div align="center">
 
+![Banner](https://via.placeholder.com/1200x300/0d1117/00D9FF?text=Backend+Developer+%7C+Java+%7C+Spring+Boot)
+
 # 👋 Olá, eu sou o **Elison Araújo**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;APIs+REST+%7C+Segurança+%7C+Arquitetura)](https://git.io/typing-svg)
@@ -79,7 +81,7 @@
 - ✅ Uso de **IA e ferramentas de Inteligência Artificial** para desenvolvimento de código
 - ✅ Construção de **aplicações Web** com HTML, CSS e JavaScript
 - ✅ Fundamentos sólidos em **Java OOP**
-- ✅ Desenvolvimento de **APIs REST** com Spring Boot
+- ��� Desenvolvimento de **APIs REST** com Spring Boot
 - ✅ Implementação de **autenticação e autorização**
 - ✅ Padrões de arquitetura em camadas
 - ✅ Versionamento com Git & GitHub
