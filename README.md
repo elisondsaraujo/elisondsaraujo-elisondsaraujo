@@ -1,6 +1,4 @@
-<style>
-  body {
-    
+
 <div align="center">
 
 ![Banner](https://via.placeholder.com/1200x300/0d1117/00D9FF?text=Backend+Developer+%7C+Java+%7C+Spring+Boot)
