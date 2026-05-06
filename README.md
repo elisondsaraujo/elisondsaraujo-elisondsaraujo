@@ -118,8 +118,6 @@
 
 Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução de problemas em software, corrigindo bugs, melhorando código existente e otimizando performance.
 
-**Próximos passos:** Aprofundar em Microserviços • Implementar CI/CD • Contribuir mais em projetos open-source • Buscar primeira experiência profissional como desenvolvedor Backend.
-
 ---
 
 <div align="center">
