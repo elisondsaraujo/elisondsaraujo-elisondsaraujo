@@ -115,7 +115,7 @@
 
 > "A disciplina transforma aprendizado em resultado concreto."
 
-Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução de problemas em software, corrigindo bugs, melhorando código existente e otimizando per[...]
+Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução direta de problemas em software, corrigindo bugs, melhorando código existente e otimizando aplicações para extrair mais desempenho, estabilidade e eficiência. Tenho interesse crescente em segurança e integração contínua (DevSecOps), aplicando na prática conceitos que tornam sistemas mais confiáveis e preparados para ambientes reais. Não me limito a estudar tecnologia: trabalho em cima dela, entendo suas falhas e evoluo sistemas até que funcionem como deveriam. Focado em entregar soluções que funcionam na prática, e não só no papel.
 
 ---
 
