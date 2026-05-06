@@ -1,10 +1,56 @@
+<style>
+  body {
+    background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 25%, #0f3460 50%, #16213e 75%, #0d1117 100%);
+    background-attachment: fixed;
+    position: relative;
+  }
+  
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+      radial-gradient(circle at 20% 50%, rgba(0, 217, 255, 0.1) 0%, transparent 50%),
+      radial-gradient(circle at 80% 80%, rgba(0, 217, 255, 0.08) 0%, transparent 50%),
+      radial-gradient(circle at 40% 20%, rgba(255, 0, 127, 0.06) 0%, transparent 50%);
+    pointer-events: none;
+    z-index: -1;
+  }
+  
+  body::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+      radial-gradient(2px 2px at 20px 30px, #00D9FF, rgba(0, 217, 255, 0.2)),
+      radial-gradient(2px 2px at 60px 70px, rgba(0, 217, 255, 0.3), rgba(0, 217, 255, 0.1)),
+      radial-gradient(1px 1px at 50px 50px, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+    background-repeat: repeat;
+    background-size: 200px 200px;
+    pointer-events: none;
+    z-index: -1;
+    animation: halftone 20s ease-in-out infinite;
+  }
+  
+  @keyframes halftone {
+    0%, 100% { opacity: 0.8; }
+    50% { opacity: 1; }
+  }
+</style>
+
 <div align="center">
 
 ![Banner](https://via.placeholder.com/1200x300/0d1117/00D9FF?text=Backend+Developer+%7C+Java+%7C+Spring+Boot)
 
 # 👋 Olá, eu sou o **Elison Araújo**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;APIs+REST+%7C+Segurança+%7C+Arquitetura)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;APIs+REST+%7C[...]
 
 </div>
 
@@ -81,7 +127,7 @@
 - ✅ Uso de **IA e ferramentas de Inteligência Artificial** para desenvolvimento de código
 - ✅ Construção de **aplicações Web** com HTML, CSS e JavaScript
 - ✅ Fundamentos sólidos em **Java OOP**
-- ��� Desenvolvimento de **APIs REST** com Spring Boot
+- ✅ Desenvolvimento de **APIs REST** com Spring Boot
 - ✅ Implementação de **autenticação e autorização**
 - ✅ Padrões de arquitetura em camadas
 - ✅ Versionamento com Git & GitHub
@@ -116,7 +162,9 @@
 
 > "A disciplina transforma aprendizado em resultado concreto."
 
-Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução de problemas em software, corrigindo bugs, melhorando código existente e otimizando performance.
+Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução de problemas em software, corrigindo bugs, melhorando código existente e otimizando per[...]
+
+**Próximos passos:** Aprofundar em Microserviços • Implementar CI/CD • Contribuir mais em projetos open-source • Buscar primeira experiência profissional como desenvolvedor Backend.
 
 ---
 
