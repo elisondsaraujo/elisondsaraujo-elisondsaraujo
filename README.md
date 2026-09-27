@@ -9,14 +9,14 @@
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🔭 Foco atual em desenvolvimento **Backend com Java**
-- 🌱 Aprendizado contínuo em **APIs REST, arquitetura e segurança**
-- 🎯 Objetivo profissional: **Desenvolvedor Backend (Pleno/Sênior)**
-- 🔐 Interesse em **Cibersegurança e sistemas escaláveis**
-- 💡 Experiência com **IA generativa** para desenvolvimento de código
+-  Estudante de **Análise e Desenvolvimento de Sistemas**
+-  Foco atual em desenvolvimento **Backend com Java**
+-  Aprendizado contínuo em **APIs REST, arquitetura e segurança**
+-  Objetivo profissional: **Desenvolvedor Backend (Pleno/Sênior)**
+-  Interesse em **Cibersegurança e sistemas escaláveis**
+-  Experiência com **IA generativa** para desenvolvimento de código
 
 ---
 
@@ -46,24 +46,24 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🔐 API de Autenticação
+###  API de Autenticação
 > Sistema backend robusto com foco em segurança e boas práticas
 
 **Funcionalidades:**
-- ✅ Cadastro e login de usuários
-- ✅ Autenticação com JWT
-- ✅ Controle de acesso por perfis (USER / ADMIN)
-- ✅ Arquitetura em camadas (Controller, Service, Repository)
-- ✅ Validação de dados com Bean Validation
-- ✅ Tratamento de exceções customizado
+-  Cadastro e login de usuários
+-  Autenticação com JWT
+-  Controle de acesso por perfis (USER / ADMIN)
+-  Arquitetura em camadas (Controller, Service, Repository)
+-  Validação de dados com Bean Validation
+-  Tratamento de exceções customizado
 
 **Tech Stack:** Java | Spring Boot | PostgreSQL | JWT | Spring Security
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   
@@ -77,14 +77,14 @@
 
 ## 🎓 Aprendizados & Conquistas
 
-- ✅ Uso de **IA e ferramentas de Inteligência Artificial** para desenvolvimento de código
-- ✅ Construção de **aplicações Web** com HTML, CSS e JavaScript
-- ✅ Fundamentos sólidos em **Java OOP**
-- ✅ Desenvolvimento de **APIs REST** com Spring Boot
-- ✅ Implementação de **autenticação e autorização**
-- ✅ Padrões de arquitetura em camadas
-- ✅ Versionamento com Git & GitHub
-- ✅ Introdução a **Docker** e containerização
+-  Uso de **IA e ferramentas de Inteligência Artificial** para desenvolvimento de código
+-  Construção de **aplicações Web** com HTML, CSS e JavaScript
+-  Fundamentos sólidos em **Java OOP**
+-  Desenvolvimento de **APIs REST** com Spring Boot
+-  Implementação de **autenticação e autorização**
+-  Padrões de arquitetura em camadas
+-  Versionamento com Git & GitHub
+-  Introdução a **Docker** e containerização
 
 **Em progresso:** Microserviços • Padrões de design • Testes automatizados (JUnit, Mockito) • CI/CD
 
@@ -92,10 +92,10 @@
 
 ## 🤝 Estou disponível para
 
-- 💬 Discussões sobre arquitetura e boas práticas
-- 🤝 Contribuições em projetos open-source
-- 📚 Compartilhar conhecimento e aprender juntos
-- 💼 Oportunidades de trabalho como desenvolvedor Backend
+-  Discussões sobre arquitetura e boas práticas
+-  Contribuições em projetos open-source
+-  Compartilhar conhecimento e aprender juntos
+-  Oportunidades de trabalho como desenvolvedor Backend
 
 ---
 
@@ -111,11 +111,15 @@
 
 ---
 
-## 💡 Meu Perfil Profissional
+##  Meu Perfil Profissional
 
 > "A disciplina transforma aprendizado em resultado concreto."
 
-Desenvolvedor Back-End em formação, com foco em Java e construção de sistemas robustos. Atuo na resolução direta de problemas em software, corrigindo bugs, melhorando código existente e otimizando aplicações para extrair mais desempenho, estabilidade e eficiência. Tenho interesse crescente em segurança e integração contínua (DevSecOps), aplicando na prática conceitos que tornam sistemas mais confiáveis e preparados para ambientes reais. Não me limito a estudar tecnologia: trabalho em cima dela, entendo suas falhas e evoluo sistemas até que funcionem como deveriam. Focado em entregar soluções que funcionam na prática, e não só no papel.
+Desenvolvedor Back-End em formação, Desenvolvedor back-end, focado na construção de sistemas robustos utilizando Java com Spring Boot. Possuo excelente curva de aprendizado para novos frameworks e domínio em ambientes poliglota, integrando soluções eficazes também com Python e JavaScript.
+
+Especializado no desenvolvimento e consumo de APIs, atuo diretamente na resolução de problemas complexos de software. Meu objetivo é refinar códigos existentes, eliminar bugs e otimizar aplicações para garantir alto desempenho estabilidade.
+
+Tenho interesse crescente em cibersegurança, aplicando na prática conceitos de desenvolvimento seguro e proteção de dados para tornar sistemas mais confiáveis e preparados contra vulnerabilidades reais.
 
 ---
 
