@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:70a5fd&text=Elison&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Desenvolvedor&descColor=ffffff&descAlignY=58" />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Especializa%C3%A7%C3%A3o+em+Java+%26+Spring+Boot;Desenvolvimento+de+APIs+REST;Seguran%C3%A7a+e+Arquitetura+de+Software;Construindo+solu%C3%A7%C3%B5es+Backend+escal%C3%A1veis" alt="Typing" />
 
 <img src="assets/banner.svg" alt="Elison Araújo - Desenvolvedor Back-End Java" width="100%" />
 
