@@ -1,70 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:70a5fd&text=Elison&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Desenvolvedor&descColor=ffffff&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:70a5fd&text=Elison&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Desenvolvedor&descColor=ffffff&descAlignY=58" width="100%" />
 
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-elisondsaraujo-70a5fd?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
-
-](https://github.com/elisondsaraujo)
-
-
-![Seguidores](https://img.shields.io/github/followers/elisondsaraujo?style=for-the-badge&color=70a5fd&labelColor=1a1b27)
-
-
-
-
-![Visitas](https://komarev.com/ghpvc/?username=elisondsaraujo&style=for-the-badge&color=70a5fd&label=VISITAS)
-
-
+<a href="https://github.com/elisondsaraujo">
+  <img src="https://img.shields.io/badge/GitHub-elisondsaraujo-70a5fd?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+</a>
+<img src="https://img.shields.io/github/followers/elisondsaraujo?style=for-the-badge&color=70a5fd&labelColor=1a1b27" />
 
 </div>
 
-## Estatísticas do GitHub
+## 👋 Sobre mim
+
+Sou Elison Araújo, desenvolvedor focado em criar aplicações web e produtos digitais do zero ao MVP.
+Gosto de transformar ideias em interfaces simples, rápidas e bem cuidadas.
+
+- 🔭 Trabalhando atualmente no **Doochat**
+- 🌱 Estudando: *(escreva aqui o que você está aprendendo)*
+- 📫 Contato: *(seu e-mail ou LinkedIn)*
+
+## 🛠️ Tecnologias
 
 <div align="center">
 
-
-
-![Elison GitHub stats](https://github-readme-stats.vercel.app/api?username=elisondsaraujo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elisondsaraujo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
-
-
-
-
-![Streak](https://streak-stats.demolab.com/?user=elisondsaraujo&theme=tokyonight&hide_border=true)
-
-
+<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=70a5fd" />
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=70a5fd" />
+<img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=70a5fd" />
+<img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=70a5fd" />
+<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=70a5fd" />
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd" />
 
 </div>
 
-## Atividade de contribuições
+## 🚀 Projeto em destaque
+
+**Doochat** — aplicativo de chat em desenvolvimento, com telas do MVP já prototipadas.
+👉 [Ver repositório](https://github.com/elisondsaraujo)
+
+## 📊 Linguagens mais usadas
 
 <div align="center">
 
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elisondsaraujo&theme=tokyo-night&hide_border=true)
-
-
-
-</div>
-
-## Troféus
-
-<div align="center">
-
-[
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=elisondsaraujo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisondsaraujo&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
