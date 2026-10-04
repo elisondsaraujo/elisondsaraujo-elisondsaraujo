@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:70a5fd&text=Elison&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Desenvolvedor&descColor=ffffff&descAlignY=58" />
 
 <img src="assets/banner.svg" alt="Elison Araújo - Desenvolvedor Back-End Java" width="100%" />
 
