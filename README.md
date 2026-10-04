@@ -1,15 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:70a5fd&text=Elison&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Desenvolvedor&descColor=ffffff&descAlignY=58" />
 
-<img src="assets/banner.svg" alt="Elison Araújo - Desenvolvedor Back-End Java" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2196F3,100:0D1117&height=200&section=header&text=Elison%20Ara%C3%BAjo&fontSize=44&fontColor=F0F6FC&fontAlignY=38&desc=Desenvolvedor%20Back-End%20%C2%B7%20Java%20%26%20Spring%20Boot&descSize=16&descColor=F0F6FC&descAlignY=58&animation=twinkling" width="100%" alt="Elison Araújo" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Especializa%C3%A7%C3%A3o+em+Java+%26+Spring+Boot;Desenvolvimento+de+APIs+REST;Seguran%C3%A7a+e+Arquitetura+de+Software;Construindo+solu%C3%A7%C3%B5es+Backend+escal%C3%A1veis" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=420&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Especializa%C3%A7%C3%A3o+em+Java+%26+Spring+Boot;Desenvolvimento+de+APIs+REST;Seguran%C3%A7a+e+Arquitetura+de+Software;Construindo+solu%C3%A7%C3%B5es+Backend+escal%C3%A1veis" alt="Typing" />
 
 <br>
 
-<a href="https://github.com/elisondsaraujo"><img src="https://img.shields.io/badge/GitHub-elisondsaraujo-2196F3?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
-<img src="https://img.shields.io/badge/Java-Especializa%C3%A7%C3%A3o-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0D1117" />
+<a href="https://github.com/elisondsaraujo"><img src="https://img.shields.io/badge/GitHub-elisondsaraujo-2196F3?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Java-Especializa%C3%A7%C3%A3o-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0D1117" alt="Spring Boot" />
 
 </div>
 
@@ -17,10 +16,10 @@
 
 <table width="100%">
 <tr>
-<th colspan="2" align="center">👨‍💻 Sobre mim</th>
+<th align="center">👨‍💻 Sobre mim</th>
 </tr>
 <tr>
-<td width="65%">
+<td>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco e especialização em **desenvolvimento Back-End utilizando Java e Spring Boot**.
 
@@ -31,11 +30,6 @@ Meu objetivo é atuar como **Desenvolvedor Back-End Java**, evoluindo em arquite
 Tenho interesse crescente em **Cibersegurança** e desenvolvimento seguro.
 
 Também uso **IA generativa** como apoio para aprendizado, análise, resolução de problemas e otimização de código.
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,postgresql,docker,git,github,linux&perline=3&theme=dark" />
 
 </td>
 </tr>
@@ -49,22 +43,38 @@ Também uso **IA generativa** como apoio para aprendizado, análise, resolução
 </tr>
 <tr>
 <td width="30%"><b>Especialização</b></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" /><br>
-<code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>JWT</code> <code>REST API</code>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/REST_API-2196F3?style=flat-square" alt="REST API" />
 </td>
 </tr>
 <tr>
 <td><b>Complementares</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" /></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</td>
 </tr>
 <tr>
 <td><b>Banco de Dados</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" /></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</td>
 </tr>
 <tr>
 <td><b>DevOps e Ferramentas</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" /></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</td>
 </tr>
 </table>
 
@@ -72,17 +82,12 @@ Também uso **IA generativa** como apoio para aprendizado, análise, resolução
 
 <table width="100%">
 <tr>
-<th colspan="2" align="center">🚀 Projeto em Destaque · API de Autenticação</th>
+<th align="center">🚀 Projeto em Destaque · API de Autenticação</th>
 </tr>
 <tr>
-<td colspan="2">
+<td>
 
 Sistema Backend em **Java e Spring Boot**, com foco em segurança, organização arquitetural e boas práticas.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 **Funcionalidades**
 
@@ -94,25 +99,10 @@ Sistema Backend em **Java e Spring Boot**, com foco em segurança, organização
 - Tratamento de exceções customizado
 - Persistência com PostgreSQL
 
-</td>
-<td width="50%" valign="top">
-
 **Arquitetura em camadas**
 
 ```text
- CLIENT
-   │
-   ▼
- CONTROLLER
-   │
-   ▼
- SERVICE
-   │
-   ▼
- REPOSITORY
-   │
-   ▼
- POSTGRESQL
+CLIENT → CONTROLLER → SERVICE → REPOSITORY → POSTGRESQL
 ```
 
 </td>
@@ -121,4 +111,4 @@ Sistema Backend em **Java e Spring Boot**, com foco em segurança, organização
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2196F3,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2196F3,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" alt="" />
