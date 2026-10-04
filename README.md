@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2196F3,100:0D1117&height=200&section=header&text=Elison%20Ara%C3%BAjo&fontSize=44&fontColor=F0F6FC&fontAlignY=38&desc=Desenvolvedor%20Back-End%20%C2%B7%20Java%20%26%20Spring%20Boot&descSize=16&descColor=F0F6FC&descAlignY=58&animation=twinkling" width="100%" alt="Elison Araújo" />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=420&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Especializa%C3%A7%C3%A3o+em+Java+%26+Spring+Boot;Desenvolvimento+de+APIs+REST;Seguran%C3%A7a+e+Arquitetura+de+Software;Construindo+solu%C3%A7%C3%B5es+Backend+escal%C3%A1veis" alt="Typing" />
 
 <br>
@@ -64,51 +62,4 @@ Também uso **IA generativa** como apoio para aprendizado, análise, resolução
 <td><b>Banco de Dados</b></td>
 <td>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</td>
-</tr>
-<tr>
-<td><b>DevOps e Ferramentas</b></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-<th align="center">🚀 Projeto em Destaque · API de Autenticação</th>
-</tr>
-<tr>
-<td>
-
-Sistema Backend em **Java e Spring Boot**, com foco em segurança, organização arquitetural e boas práticas.
-
-**Funcionalidades**
-
-- Cadastro de usuários e login
-- Autenticação com JWT
-- Autorização com Spring Security
-- Perfis de acesso: `USER` e `ADMIN`
-- Validação de dados
-- Tratamento de exceções customizado
-- Persistência com PostgreSQL
-
-**Arquitetura em camadas**
-
-```text
-CLIENT → CONTROLLER → SERVICE → REPOSITORY → POSTGRESQL
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2196F3,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" alt="" />
+<img src="https:/
