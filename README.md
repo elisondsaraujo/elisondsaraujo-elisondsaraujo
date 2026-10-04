@@ -1,55 +1,71 @@
 <div align="center">
 
-# 👋 Olá, eu sou Elison Araújo
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:70a5fd&text=Elison&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Desenvolvedor&descColor=ffffff&descAlignY=58" />
 
-### Desenvolvedor Back-End em formação
+[
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back-End;Java+%7C+Spring+Boot+%7C+PostgreSQL;APIs+REST+%7C+JWT+%7C+Spring+Security;Sempre+aprendendo%2C+sempre+evoluindo." />
+![GitHub](https://img.shields.io/badge/GitHub-elisondsaraujo-70a5fd?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
 
-<br>
+](https://github.com/elisondsaraujo)
 
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+![Seguidores](https://img.shields.io/github/followers/elisondsaraujo?style=for-the-badge&color=70a5fd&labelColor=1a1b27)
 
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
+
+
+![Visitas](https://komarev.com/ghpvc/?username=elisondsaraujo&style=for-the-badge&color=70a5fd&label=VISITAS)
+
+
 
 </div>
 
----
+## Estatísticas do GitHub
 
-## 🧑‍💻 Sobre mim
+<div align="center">
 
-<table>
-<tr>
-<td width="65%">
 
-### Desenvolvedor Back-End em formação
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente focado no desenvolvimento **Backend com Java e Spring Boot**.
+![Elison GitHub stats](https://github-readme-stats.vercel.app/api?username=elisondsaraujo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
-Tenho interesse na construção de sistemas robustos, APIs escaláveis, arquitetura de software e desenvolvimento seguro.
 
-Meu objetivo profissional é atuar como **Desenvolvedor Backend**, evoluindo continuamente em arquitetura, performance, segurança e boas práticas.
 
-Também possuo experiência utilizando **IA generativa como ferramenta de apoio ao desenvolvimento de código**.
 
-</td>
 
-<td width="35%">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elisondsaraujo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-```text
-🎓 ADS
-💻 Backend
-☕ Java
-🌱 Spring Boot
-🔐 Segurança
-🗄️ PostgreSQL
-🐳 Docker
-🐧 Linux
+
+
+
+
+![Streak](https://streak-stats.demolab.com/?user=elisondsaraujo&theme=tokyonight&hide_border=true)
+
+
+
+</div>
+
+## Atividade de contribuições
+
+<div align="center">
+
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elisondsaraujo&theme=tokyo-night&hide_border=true)
+
+
+
+</div>
+
+## Troféus
+
+<div align="center">
+
+[
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=elisondsaraujo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:70a5fd,100:1a1b27&section=footer" width="100%" />
