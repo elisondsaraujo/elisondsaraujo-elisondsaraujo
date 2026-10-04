@@ -2,29 +2,25 @@
 
 # Elison Araújo
 
-### Desenvolvedor Back-End em formação
-
-Desenvolvimento Backend | Java | Spring Boot | APIs REST
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Especializa%C3%A7%C3%A3o+em+Java+%26+Spring+Boot;Desenvolvimento+de+APIs+REST;Seguran%C3%A7a+e+Arquitetura+de+Software;Construindo+solu%C3%A7%C3%B5es+Backend+escal%C3%A1veis" />
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2196F3,100:0D1117&height=120&section=header&animation=fadeIn"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 ## Sobre mim
+
+</div>
+
+<table>
+<tr>
+<td width="65%">
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco e especialização em **desenvolvimento Back-End utilizando Java e Spring Boot**.
 
@@ -36,65 +32,66 @@ Tenho interesse crescente em **Cibersegurança**, desenvolvimento seguro e const
 
 Também utilizo **Inteligência Artificial generativa** como ferramenta de apoio ao desenvolvimento, aprendizado, análise, resolução de problemas e otimização de código.
 
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,postgresql,docker,git,github,linux&perline=3"/>
+
+</td>
+</tr>
+</table>
+
 ---
+
+<div align="center">
 
 ## Stack Técnico
 
 ### Especialização Principal
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,spring"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-Especialização-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
 <br><br>
 
 `Java` `Spring Boot` `Spring Security` `JWT` `REST API`
 
-</div>
+<br><br>
 
-### Conhecimentos
-
-<div align="center">
+### Conhecimentos Complementares
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
 
 <br><br>
 
-`Python` `JavaScript` `HTML` `CSS`
-
-</div>
-
 ### Banco de Dados
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql"/>
 
 <br><br>
 
-`PostgreSQL` `MySQL`
-
-</div>
-
 ### DevOps e Ferramentas
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
-
-<br><br>
-
-`Docker` `Git` `GitHub` `Linux`
 
 </div>
 
 ---
 
+<div align="center">
+
 ## Projeto em Destaque
 
 ### API de Autenticação
 
-Sistema Backend desenvolvido utilizando Java e Spring Boot, com foco em segurança, organização arquitetural e boas práticas de desenvolvimento.
+</div>
+
+Sistema Backend desenvolvido utilizando **Java e Spring Boot**, com foco em segurança, organização arquitetural e boas práticas de desenvolvimento.
 
 ### Funcionalidades
 
@@ -103,35 +100,9 @@ Sistema Backend desenvolvido utilizando Java e Spring Boot, com foco em seguran�
 - Autenticação utilizando JWT
 - Autorização com Spring Security
 - Controle de acesso por perfis
-- Perfis USER e ADMIN
+- USER e ADMIN
 - Validação de dados
 - Tratamento de exceções customizado
 - Arquitetura em camadas
 - Persistência com PostgreSQL
 
-### Arquitetura
-
-```text
-                    ┌─────────────────┐
-                    │     CLIENT      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   CONTROLLER    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     SERVICE     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   REPOSITORY    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   POSTGRESQL    │
-                    └─────────────────┘
