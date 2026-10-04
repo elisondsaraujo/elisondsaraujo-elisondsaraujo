@@ -1,47 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:70a5fd&text=Elison&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Desenvolvedor&descColor=ffffff&descAlignY=58" width="100%" />
+# Elison Araújo
 
-<a href="https://github.com/elisondsaraujo">
-  <img src="https://img.shields.io/badge/GitHub-elisondsaraujo-70a5fd?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+### Desenvolvedor Back-End em formação
+
+Desenvolvimento Backend | Java | Spring Boot | APIs REST
+
+<br>
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/followers/elisondsaraujo?style=for-the-badge&color=70a5fd&labelColor=1a1b27" />
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-## 👋 Sobre mim
+---
 
-Sou Elison Araújo, desenvolvedor focado em criar aplicações web e produtos digitais do zero ao MVP.
-Gosto de transformar ideias em interfaces simples, rápidas e bem cuidadas.
+## Sobre mim
 
-- 🔭 Trabalhando atualmente no **Doochat**
-- 🌱 Estudando: *(escreva aqui o que você está aprendendo)*
-- 📫 Contato: *(seu e-mail ou LinkedIn)*
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco e especialização em **desenvolvimento Back-End utilizando Java e Spring Boot**.
 
-## 🛠️ Tecnologias
+Possuo conhecimentos em **Python e JavaScript**, utilizando essas tecnologias de acordo com a necessidade dos projetos e soluções desenvolvidas.
+
+Meu principal objetivo profissional é atuar como **Desenvolvedor Back-End Java**, evoluindo continuamente em arquitetura de software, APIs, segurança, performance e sistemas escaláveis.
+
+Tenho interesse crescente em **Cibersegurança**, desenvolvimento seguro e construção de aplicações robustas.
+
+Também utilizo **Inteligência Artificial generativa** como ferramenta de apoio ao desenvolvimento, aprendizado, análise, resolução de problemas e otimização de código.
+
+---
+
+## Stack Técnico
+
+### Especialização Principal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=70a5fd" />
-<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=70a5fd" />
-<img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=70a5fd" />
-<img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=70a5fd" />
-<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=70a5fd" />
-<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd" />
+<img src="https://skillicons.dev/icons?i=java,spring"/>
+
+<br><br>
+
+`Java` `Spring Boot` `Spring Security` `JWT` `REST API`
 
 </div>
 
-## 🚀 Projeto em destaque
-
-**Doochat** — aplicativo de chat em desenvolvimento, com telas do MVP já prototipadas.
-👉 [Ver repositório](https://github.com/elisondsaraujo)
-
-## 📊 Linguagens mais usadas
+### Conhecimentos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisondsaraujo&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
+
+<br><br>
+
+`Python` `JavaScript` `HTML` `CSS`
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:70a5fd,100:1a1b27&section=footer" width="100%" />
+### Banco de Dados
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql"/>
+
+<br><br>
+
+`PostgreSQL` `MySQL`
+
+</div>
+
+### DevOps e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
+
+<br><br>
+
+`Docker` `Git` `GitHub` `Linux`
+
+</div>
+
+---
+
+## Projeto em Destaque
+
+### API de Autenticação
+
+Sistema Backend desenvolvido utilizando Java e Spring Boot, com foco em segurança, organização arquitetural e boas práticas de desenvolvimento.
+
+### Funcionalidades
+
+- Cadastro de usuários
+- Login
+- Autenticação utilizando JWT
+- Autorização com Spring Security
+- Controle de acesso por perfis
+- Perfis USER e ADMIN
+- Validação de dados
+- Tratamento de exceções customizado
+- Arquitetura em camadas
+- Persistência com PostgreSQL
+
+### Arquitetura
+
+```text
+                    ┌─────────────────┐
+                    │     CLIENT      │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   CONTROLLER    │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     SERVICE     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   REPOSITORY    │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   POSTGRESQL    │
+                    └─────────────────┘
